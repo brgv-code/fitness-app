@@ -1,0 +1,16 @@
+mat-sidenav-container, mat-sidenav-content, mat-sidenav {
+    height: 100%;
+}
+
+mat-sidenav {
+    width: 200px;
+}
+.toggle-button {
+    background-color: transparent;
+    border: none;
+    color: white;
+    padding-top: 10px;
+}
+.toggle-button:focus {
+    outline: none;
+}

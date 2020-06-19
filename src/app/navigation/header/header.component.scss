@@ -1,0 +1,28 @@
+a {
+    text-decoration: none;
+    color: white; 
+}
+
+a:hover,
+a:active {
+    color: lightgray;
+}
+.toggle-button {
+    background-color: transparent;
+    border: none;
+    color: white;
+    padding-top: 10px;
+}
+.toggle-button:focus {
+    outline: none;
+}   
+.nav-items {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+
+}
+.nav-caption {
+    display: inline-block;
+    padding-left: 6px;
+}
